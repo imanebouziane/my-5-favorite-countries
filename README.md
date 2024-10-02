@@ -1,6 +1,6 @@
 # 🌍 My 5 Favorite Countries
 
-🎉 **Premier projet web pour mes apprenants !** 🎉
+🎉 **Votre premier projet web !** 🎉
 
 ## 🚀 Objectif
 
